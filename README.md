@@ -1,49 +1,57 @@
 <h1 align="center">Hi , I'm Miraj Hossan Sajid</h1>
+
 <h3 align="center">🎓 CSE 6th Semester Student | Learning Competitive Programming, ML & Android Development | Git & GitHub Practitioner | Phitron & Bongo Academy Learner</h3>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently working on **CSE Fundamentals, Competitive Programming & Android Dev**
-- 🌱 Learning **Machine Learning**, **Git/GitHub**, **DSA**, and **Android Java**
-- 🧠 I’m improving in **Problem Solving**, **STL**, **OOP**, and **Version Control**
-- 💬 Ask me about **C++, Java, Git, Algorithms**
-- 📫 Reach me: **mirajsajid01@gmail.com**
-- ⚡ Fun fact: *I enjoy debugging more than coding sometimes!*
-
----
-
-### 🚀 Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MdMirajHossanSajid&theme=onedark&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdMirajHossanSajid&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdMirajHossanSajid&theme=radical" alt="streak"/>
+  <img src="https://komarev.com/ghpvc/?username=mdmirajhossansajid&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
 
-### 🐍 Snake Contribution Graph
+- 🌱 I’m currently learning **Algorithms, Machine Learning, and Android App Development**
+- 💬 Ask me about **C++, Java**, or **Problem Solving**
+- 📫 Reach me at: **mdmirajhossansajidpc@gmail.com**
 
-```md
-<!-- Snake Contribution Graph -->
-![snake gif](https://github.com/MdMirajHossanSajid/MdMirajHossanSajid/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.facebook.com/mirajhossain.sajid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mirajhossain.sajid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/mdmirajhossansa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/paradoxical_sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmirajhossansajid&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmirajhossansajid&theme=monokai&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 Snake Contribution Graph:
+<p align="center">
+  <img src="https://github.com/mdmirajhossansajid/mdmirajhossansajid/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
