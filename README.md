@@ -44,14 +44,7 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmirajhossansajid&theme=monokai&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
 
----
 
-### 🐍 Snake Contribution Graph:
-<p align="center">
-  <img src="https://github.com/mdmirajhossansajid/mdmirajhossansajid/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
+![snake gif](https://github.com/mdmirajhossansajid/mdmirajhossansajid/blob/output/github-snake-dark.svg)
