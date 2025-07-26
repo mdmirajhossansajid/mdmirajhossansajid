@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Miraj Hossan Sajid</h1>
 
-<h3 align="center">🎓 CSE 6th Semester Student | Learning Competitive Programming, ML & Android Development | Git & GitHub Practitioner | Phitron & Bongo Academy Learner</h3>
+<h3 align="center">🎓 CSE 6th Semester Student | Learning Competitive Programming, ML & Android Development | Phitron & Bongo Academy Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdmirajhossansajid&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
