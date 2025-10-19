@@ -71,3 +71,7 @@
 </div>
 
 <h3 align="center">🚀 Let's build something amazing together!</h3>
+# 📊 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmirajhossansajid&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
