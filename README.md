@@ -1,4 +1,4 @@
-<!-- 🔥 Banner (you can replace with your LinkedIn cover later) -->
+<!-- 🔥 Animated Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Miraj%20Hossan%20Sajid&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -16,10 +16,10 @@
 ---
 
 ## 🚀 About Me
-- 💻 Front-End Developer focused on **clean UI & performance**
-- 🧠 Problem Solver using **C++ (Competitive Programming)**
-- 🌱 Learning **Algorithms & Software Engineering**
-- 🎯 Goal: Become a **Software Engineer**
+- 💻 Front-End Developer focused on clean & responsive UI  
+- 🧠 Problem Solver using **C++ (Competitive Programming)**  
+- 🌱 Learning **Algorithms & Software Engineering**  
+- 🎯 Goal: Become a **Software Engineer**  
 
 ---
 
@@ -30,29 +30,26 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Project
 <p align="center">
-  <a href="https://github.com/mdmirajhossansajid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmirajhossansajid&repo=Student-Management-System&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmirajhossansajid&repo=Student-Management-System&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.facebook.com/mirajhossain.sajid/" target="blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40" />
-</a>
-<a href="https://www.instagram.com/mirajhossain.sajid/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-<a href="https://www.hackerrank.com/profile/mdmirajhossansa1" target="blank">
-<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="40" />
-</a>
-<a href="https://codeforces.com/profile/paradoxical_sajid" target="blank">
-<img src="https://cdn.worldvectorlogo.com/logos/codeforces.svg" height="40" />
-</a>
+  <a href="https://www.facebook.com/mirajhossain.sajid" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mirajhossain.sajid/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mdmirajhossansajid/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
 
 ---
@@ -72,18 +69,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animation)
-<p align="center">
-  <img src="https://github.com/mdmirajhossansajid/mdmirajhossansajid/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## ⚡ Fun Zone
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
