@@ -276,6 +276,16 @@ I am passionate about applying **Artificial Intelligence** and **Natural Languag
 <img src="https://github-profile-trophy.vercel.app/?username=mdmirajhossansajid&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
+# 📅 GitHub Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2ea043/mdmirajhossansajid"
+    alt="GitHub Contribution Calendar"
+  />
+</p>
+
+---
 ## 📈 Contribution Graph
 
 <p align="center">
