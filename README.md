@@ -279,13 +279,18 @@ I am passionate about applying **Artificial Intelligence** and **Natural Languag
 # 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/2ea043/mdmirajhossansajid"
-    alt="GitHub Contribution Calendar"
-  />
-</p>
 
----
+<a href="https://github.com/mdmirajhossansajid">
+  <img src="https://ghchart.rshah.org/39d353/mdmirajhossansajid" width="100%" alt="Contribution Calendar"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/mdmirajhossansajid">
+<img src="https://img.shields.io/badge/View%20Full%20Contribution%20Calendar-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 ## 📈 Contribution Graph
 
 <p align="center">
