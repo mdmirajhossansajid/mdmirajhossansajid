@@ -10,7 +10,7 @@
 
 ### 💻 MERN Stack Developer • 🤖 AI & NLP Research Enthusiast • 🏆 Competitive Programmer • ☁️ interested in DevOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;MERN+Stack+Developer;AI+%26+NLP+Research+Enthusiast;Competitive+Programmer;Future+DevOps+Engineer;Open+Source+Learner;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;MERN+Stack+Developer;AI+%26+NLP+Research+Enthusiast;Competitive+Programmer;Interested+DevOps+Engineer;Open+Source+Learner;Always+Learning+New+Technologies"/>
 
 <br>
 
