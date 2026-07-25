@@ -231,7 +231,9 @@ I am passionate about applying **Artificial Intelligence** and **Natural Languag
 - 🛡️ [Applied Penetration Testing Engineer](https://drive.google.com/file/d/1xZTKhl89JINywQb6bGfWgI5ONCXXZR-8/view?usp=sharing)
 - 🎓 [EDGE Digital Skills Training Program](https://drive.google.com/file/d/1V4pPyjILb0uB_GPJU2I9YumWPleEK3W1/view?usp=sharing)
 - 💻 [Phitron Batch 7 Completion](https://drive.google.com/file/d/1FMTEjgA6GUOMOcitUfxPOTatO8ZkIpOb/view?usp=sharing)
-- ➗ [16th Bangladesh Mathematics Society Conference 2025 – Certificate of Participation](https://drive.google.com/file/d/1qGyIvFQSD960hDtdpFfeg7ibRi-gipTa/view?usp=sharing)
+- 🧮 National Mathematics Carnival 2026 – Mathematics Olympiad (University Level) 
+https://drive.google.com/file/d/1siVY1CVr7Qww-t73WsN2s3PQjhr9ZWTZ/view?usp=sharing
+- ➗ [16th Bangladesh Mathematics Society Conference 2025 – Certificate of Participation](https://drive.google.com/file/d/1QPG5b1tlN-T8kl6rR8Dgfssc-mqlh5J1/view?usp=sharing)
 - 🏆 [ICPC Dhaka Regional 2024 Participation](https://drive.google.com/file/d/1leOF_BLz3Sz6mmepMdekQzjdg12MLAfG/view?usp=sharing)
 
 ---
