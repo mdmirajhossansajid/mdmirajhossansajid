@@ -291,21 +291,6 @@ https://drive.google.com/file/d/1siVY1CVr7Qww-t73WsN2s3PQjhr9ZWTZ/view?usp=shari
 
 </p>
 
-# 📅 GitHub Contribution Calendar
-
-<p align="center">
-
-<a href="https://github.com/mdmirajhossansajid">
-  <img src="https://ghchart.rshah.org/39d353/mdmirajhossansajid" width="100%" alt="Contribution Calendar"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/mdmirajhossansajid">
-<img src="https://img.shields.io/badge/View%20Full%20Contribution%20Calendar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 ## 📈 Contribution Graph
 
 <p align="center">
